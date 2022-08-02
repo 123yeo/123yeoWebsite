@@ -1,0 +1,8 @@
+npm install react
+npm install react-router-dom
+npm install trên thư mục package.json 
+import React from 'react';
+npm install @reduxjs/toolkit
+npm i web-vitals
+npm i web-vitals --save-dev
+thay đổi templateUrl: ''để template: ''sửa nó
